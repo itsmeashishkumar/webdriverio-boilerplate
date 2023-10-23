@@ -29,7 +29,7 @@
     "allure-report": "allure generate --clean allure-results && allure open -p 5050"
   },
   "devDependencies": {
-    "@types/jasmine": "^4.3.5",
+    "@types/jasmine": "^5.1.1",
     "@types/mocha": "^10.0.1",
     "@wdio/allure-reporter": "^8.1.2",
     "@wdio/cli": "^8.15.5",
